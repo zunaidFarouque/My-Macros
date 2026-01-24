@@ -1,0 +1,1 @@
+^XButton1:: MsgBox("You pressed Ctrl+F18")

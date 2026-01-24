@@ -1,0 +1,6 @@
+﻿[PMC Globals]|None||
+[PMC Code v5.4.1]|`||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Paste_Slow
+Context=None|
+Groups=Start:1
+1|[Text]|%Clipboard%|1|2|SendEvent|||BANGLISH 2 BANGLA CONVERTER   Use this website. https://www.easybengalityping.com/  open it and use this macro to convert||1|
+

@@ -8,7 +8,7 @@ This folder is the working copy of a **separate Git repository**. In [Windows-10
 
 | Area                           | Contents                                                                                                                                                                                                    |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **`Python scripts/`**          | Scripts plus a shortcut generator. Run `Shortcuts creator.py` to build one-click shortcuts into `Shortcuts/`. See [`Python scripts/readme.md`](./Python_scripts/readme.md).                               |
+| **`Python scripts/`**          | Scripts plus a shortcut generator. Run `Shortcuts creator.py` to build one-click shortcuts into `Shortcuts/`. See [`Python scripts/readme.md`](./Python_scripts/readme.md).                                 |
 | **`Old but useful ones/`**     | Archived but still handy material: AutoHotkey (e.g. Kando runners, hotkey helpers, mailing workflows), Pulover Macro Creator (`.pmc`), Word VBA (e.g. Zotero-related), configs and notes alongside scripts. |
 | **`_MyMacros.code-workspace`** | VS Code / Cursor workspace file opening this folder as a single project.                                                                                                                                    |
 
@@ -30,4 +30,3 @@ git pull
 ## Scope
 
 This is a **personal backup and reference** tree, not a polished product. Paths, hotkeys, and dependencies match one machine and workflow; adjust before reusing elsewhere.
-
